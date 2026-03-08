@@ -1,0 +1,40 @@
+# Global
+.DS_Store
+*.log
+
+# Node.js
+**/node_modules/
+**/dist/
+
+# Env files
+**/.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing / coverage
+**/coverage/
+
+# React/Vite
+frontend/.vite/
+
+# Node
+**/node_modules/
+**/dist/
+
+# Entornos
+**/.env
+
+# Logs
+*.log
+
+# IDEs y sistema
+.vscode/
+.idea/
+.DS_Store
+
+# Coverage y cachés
+**/coverage/
+**/.turbo/
+**/.next/
